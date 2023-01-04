@@ -4,7 +4,7 @@ git clone https://github.com/chenyongxiao/chenyongxiao.github.io.git
 yarn
 ```
 
-### 编写文章
+编写文章后, 执行以下命令
 
 ```shell
 yarn build
