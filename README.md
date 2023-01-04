@@ -1,5 +1,7 @@
 ```shell
 git clone https://github.com/chenyongxiao/chenyongxiao.github.io.git
+
+yarn
 ```
 
 ### 编写文章
