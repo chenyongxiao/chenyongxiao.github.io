@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "奥利给",
+  title: "技术文档",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -37,24 +37,39 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "向导",
-        link: "/guide/",
+        text: "开发规范",
+        link: "/rules/",
       },
       {
-        text: "配置",
-        link: "/config/",
-      },
-      {
-        text: "VuePress",
-        link: "https://v1.vuepress.vuejs.org",
+        text: "技术文档",
+        link: "/articles/",
       },
     ],
     sidebar: {
-      "/guide/": [
+      "/rules/": [
         {
-          title: "向导",
+          title: "开发规范",
           collapsable: false,
-          children: ["", "using-vue"],
+          children: [
+            "",
+            "开关简化",
+            "善于用解构",
+            "用对象代替switch, case选择结构",
+            "中断forEach循环",
+            "if条件中存在多个或运算符的优化",
+          ],
+        },
+      ],
+      "/articles/": [
+        {
+          title: "技术文档",
+          collapsable: false,
+          children: [
+            "",
+            "CSS filter给img修改颜色",
+            "使用CSS实现平滑滚动",
+            "JavaScript数组转树and树转数组",
+          ],
         },
       ],
     },

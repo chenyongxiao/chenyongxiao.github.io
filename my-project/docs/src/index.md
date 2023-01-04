@@ -1,13 +1,13 @@
 ---
 home: true
-heroImage: https://excalidraw.com/apple-touch-icon.png
-heroText: 陈永校
-tagline: 陈永校yyds
-actionText: 快速上手 →
-actionLink: https://cxkyyds.xyz
+heroImage: http://www.ysstech.com/img/yys_logo.a648c182.png
+heroText: 技术文档
+tagline: 赢时胜
+actionText: 跳转到技术文档 →
+actionLink: /articles/
 features:
-  - title: 简洁至上
-    details: cxk yyds
+  - title: 代码
+    details: code yyds
   - title: 赢时胜
     details: 赢时胜yyds
   - title: 前端
