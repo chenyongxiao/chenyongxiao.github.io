@@ -14,4 +14,4 @@ git commit -m 'update'
 git push origin master
 ```
 
-等待几分钟, 部署成功, 就可以通过[https://chengyongxiao.cxkyyds.xyz](https://chengyongxiao.cxkyyds.xyz)访问
+等待几分钟, 部署成功, 就可以通过chengyongxiao.cxkyyds.xyz访问
