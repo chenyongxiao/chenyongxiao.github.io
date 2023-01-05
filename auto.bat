@@ -1,7 +1,7 @@
-@echo off
 echo building...
 call yarn build
 call git add .
+@echo off
 set /p msg=commit message:
 call git commit -m "%msg%" 
 call git pull origin master 
