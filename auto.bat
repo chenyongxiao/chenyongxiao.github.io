@@ -1,0 +1,3 @@
+echo building...
+call yarn build
+call git add .

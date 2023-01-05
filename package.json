@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "study vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "chenyongxiao",
+    "email": ""
+  },
+  "repository": "/blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "auto": "auto.bat"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
