@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://brand.waitui.com/uploads/images/brand/poster_358dc7a73062037bf1.jpg
+heroImage: https://img0.baidu.com/it/u=4048078351,3405925888&fm=253&fmt=auto&app=138&f=PNG?w=276&h=277
 heroText: 技术文档
 tagline: 赢时胜
 actionText: 跳转到技术文档 →
