@@ -11,4 +11,4 @@ yarn auto  执行各种命令
 
 ```
 
-等待几分钟, 部署成功, 就可以通过[https://chenyongxiao.cxkyyds.xyz/](https://chenyongxiao.cxkyyds.xyz/)访问
+等待几分钟, 部署成功, 就可以通过[https://cyx.cxkyyds.xyz/](https://cyx.cxkyyds.xyz/)访问
